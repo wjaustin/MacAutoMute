@@ -8,7 +8,7 @@
 
     <key>Label</key>
 
-    <string>com.idle.restart</string>
+    <string>com.autoMute.restart</string>
 
     <key>OnDemand</key>
 
@@ -28,7 +28,7 @@
 
     <key>ServiceDescription</key>
 
-    <string>Restarts the computer after it has been idle for 20 minutes</string>
+    <string>Mutes the internal speakers</string>
 
 </dict>
 
